@@ -1,0 +1,15 @@
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/bin/Debug/net8.0/probando
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/bin/Debug/net8.0/probando.dll
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.dll
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/Curso-Git-GitHub/Proyecto1/probando/obj/Debug/net8.0/ref/probando.dll

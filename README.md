@@ -22,5 +22,6 @@ gitGraph
     merge develop
     commit
     commit
+```
 
 Cambios desde GitHub.dev Editor

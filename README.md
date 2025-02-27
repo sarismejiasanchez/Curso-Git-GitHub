@@ -25,3 +25,6 @@ gitGraph
 ```
 
 Cambios desde GitHub.dev Editor
+
+Presiona <kbd>W</kbd> para ir hacia arriba, presiona <kbd>S</kbd> para ir hacia abajo, <kbd>A</kbd> para la izquierda y <kbd>D</kbd> para la derecha
+
